@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Sistema de controle vendas criado usando C#, HML, CSS e Javascript.
+Sistema de controle vendas criado usando C#, HTML, CSS e Javascript.
 
 # Autor
 Gabriel Leal
